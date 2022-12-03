@@ -1,5 +1,11 @@
 1- An  Elepant 
+<<<<<<< HEAD
 2- A zebra 
 3- A  Lion
 4- A tiger 
+=======
+2- a Zebra 
+3- a  Lion
+4- A tiger
+>>>>>>> new-feature
 5- A jaguar
